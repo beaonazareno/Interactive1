@@ -1,0 +1,59 @@
+
+<html>
+<link rel="stylesheet" href="https://use.typekit.net/pix2igr.css">
+<head>
+
+<style>
+
+body {
+    background-color: #FFFFFF;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #79B788;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 40px 40px;
+    text-decoration: none;
+    font-family: fatfrank, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 22px;
+}
+
+li a:hover {
+    background-color: #75AA81;
+}
+
+
+
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">HOME</a></li>
+  <li><a href="#about">ABOUT</a></li>
+  <li><a href="#freedownload">FREE DOWNLOAD</a></li>
+  <li><a href="#marGplus">plus</a></li>
+  <li><a href="#FAQ">FAQ</a></li>
+</ul>
+
+
+
+</body>
+</html>
